@@ -1,3 +1,3 @@
 # Tableau-Projects
 
-File contains all the Screenshots of my Tableau Projects, project pdfs and project raw files.
+File contains all the Screenshots of my Tableau Projects, project pdfs/ documentation and project raw files.
